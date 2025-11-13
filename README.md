@@ -1,4 +1,4 @@
-![iTz Arshia](https://user-images.githubusercontent.com/89854127/213686835-16c118d2-d724-4ef8-a534-df1032a4caf1.jpg)
+![GH](https://github.com/theegharibe/theegharibe/blob/main/read.png)
 
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Arshia;a+Discord+Bot+Developer+and+Server+Architect;I+love+creating+and+coding+cool+stuff;Also%2C+I'm+interested+in+managing+communities;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></h1>
 
